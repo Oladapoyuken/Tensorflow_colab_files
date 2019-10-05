@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Screenshot (182).png</filename>
+	<path>C:\Tensorflow_carpark_rasp\models\research\object_detection\images\train\Screenshot (182).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>844</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>5</ymin>
+			<xmax>352</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>two</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>1</ymin>
+			<xmax>543</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>10</ymin>
+			<xmax>734</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
